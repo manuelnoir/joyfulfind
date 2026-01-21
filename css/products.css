@@ -1,0 +1,36 @@
+h1{
+   color: rgb(13, 171, 171); 
+   text-align: center;
+   font-size: 40px;
+   background-color: black;
+   line-height: 100px;
+   text-shadow: 0 0 8px white;
+   font-weight: bolder;
+   
+}
+
+h1:hover{
+    background-color: beige;
+    color: black;
+}
+
+p{
+    font-style: italic;
+}
+img{
+  width: 270px;  
+  height: 470px;
+  border-radius: 10px;
+}
+a{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    margin-right:5px ;
+    padding: 5px;
+    text-decoration: none
+    border-radius: 10px;
+}
+a:hover{
+    background-color: black
+    color: white;
+}

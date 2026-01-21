@@ -1,0 +1,63 @@
+h1{
+text-align: center;
+color: brown;
+font-size: x-large;
+}
+#fastshipping{
+text-decoration: underline;
+color: aqua;
+
+
+}
+.paragraph{
+font-weight: bolder;
+font-style: italic;
+
+
+}
+#customersupport{
+color: blue;
+
+}
+#membership{
+background-color: bisque;
+margin: 50px;
+padding: 50px;
+border-radius: 15px;
+color: rgb(173, 20, 20);
+
+}
+#membership h3{
+    color: darkblue;
+
+
+
+}
+#membership:hover{
+background-color: brown;
+color: black;
+
+}
+
+#vip{
+    display: flex;
+    margin: 40px;
+    gap: 20px;
+
+
+
+    
+}
+#main{
+    display: flex;
+
+
+
+}
+.services{
+background-color: darkgray;
+margin-right: 10px;
+border-radius: 15px;
+padding: 20px;
+
+}
